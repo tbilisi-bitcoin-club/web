@@ -17,3 +17,6 @@ enableEmoji = true
 [params]
   customCSS = ["css/custom.css"]
   mainSections = ["posts"]
+
+[build]
+  noJSConfigInAssets = true
