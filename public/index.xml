@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TBMC</title>
+    <link>http://localhost:1313/tbmc/</link>
+    <description>Recent content on TBMC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 03 Oct 2025 15:10:06 +0400</lastBuildDate><atom:link href="http://localhost:1313/tbmc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Привет, мир</title>
+      <link>http://localhost:1313/tbmc/posts/hello/</link>
+      <pubDate>Fri, 03 Oct 2025 15:10:06 +0400</pubDate>
+      
+      <guid>http://localhost:1313/tbmc/posts/hello/</guid>
+      
+      <description>&lt;p&gt;Всем привет. Это первый пост проекта TBMC – Tbilisi Bitcoin Maxi Club&lt;/p&gt;
+&lt;p&gt;С сегодняшнего дня мы будем публиковать анонсы, новости и отчёты в этом блоге.&lt;/p&gt;
+&lt;p&gt;Есть вопросы или предложения? Переходите в наш телеграм-чат.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

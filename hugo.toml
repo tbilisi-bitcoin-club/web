@@ -1,0 +1,20 @@
+baseURL = 'https://bitcoin21ideas.github.io/tbmc/'
+title = 'TBMC'
+languageCode = 'ru-ru'
+defaultContentLanguage = 'ru-ru'
+defaultContentLanguageInSubdir = false
+enableEmoji = true
+
+[module]
+  [[module.imports]]
+    path = 'github.com/hugo-sid/hugo-blog-awesome'
+
+[Languages.ru-ru]
+  languageName = 'Russian'
+  contentDir = 'content/ru'
+  weight = 1
+
+[Languages.en-gb]
+  languageName = 'English'
+  contentDir = 'content/en'
+  weight = 2
