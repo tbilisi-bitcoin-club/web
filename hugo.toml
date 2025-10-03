@@ -14,7 +14,6 @@ enableEmoji = true
   contentDir = 'content/ru'
   weight = 1
 
-[Languages.en-gb]
-  languageName = 'English'
-  contentDir = 'content/en'
-  weight = 2
+[params]
+  customCSS = ["css/custom.css"]
+  mainSections = ["posts"]

@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'basis33';
+  src: url('/tbmc/fonts/basis33.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Override theme font with basis33 */
+body,
+html body,
+body * {
+  font-family: 'basis33', monospace !important;
+}
+
+/* Specific overrides for common elements */
+h1, h2, h3, h4, h5, h6,
+p, div, span, a, li, ul, ol,
+.navbar, .menu, .wrapper, .author,
+.post-item, .footer, .page-content {
+  font-family: 'basis33', monospace !important;
+}

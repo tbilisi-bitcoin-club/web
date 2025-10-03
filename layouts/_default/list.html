@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main class="page-content" aria-label="Content">
+  {{ if .IsHome }}
+    {{ partial "bio" . }}
+    <br/>
+    <h3 class="posts-item-note" aria-label="Recent Posts">{{ T "home.recent_posts" }}</h3>
+    {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ $posts := $pagesToShow.ByDate.Reverse }}
+    {{ range first 5 $posts }}
+      {{ partial "postCard" . }}
+    {{ end }}
+    {{ if gt (len $posts) 5 }}
+      <p>
+        {{ range $firstSection := (where .Site.Sections "Section" "in" (first 1 (.Site.Params.mainSections))) }}
+          <a href="{{ $firstSection.Permalink }}">{{ T "home.see_all_posts" }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
+  {{ else }}
+    <header class="header">
+      <h1 class="header-title center">{{ .Title }}</h1>
+    </header>
+    {{ .Content }}
+    {{ range .Pages.GroupByDate "2006" }}
+      <h2 class="post-year">{{ .Key }}</h2>
+      {{ range .Pages }}
+        {{ partial "postCard" . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</main>
+{{ end }}

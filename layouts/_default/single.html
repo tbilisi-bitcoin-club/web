@@ -1,0 +1,48 @@
+{{ define "main" }}
+<main class="page-content" aria-label="Content">
+  <header class="header">
+    {{ if .Params.cover }}
+      <div class="post-cover">
+        <img src="{{ .Params.cover }}" alt="{{ .Title }}" class="cover-image">
+      </div>
+    {{ end }}
+    <h1 class="header-title">{{ .Title }}</h1>
+    {{ if .Params.date }}
+      <div class="post-meta">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{ .Date.Format "2 Jan 2006" }}
+        </time>
+        {{ if .Params.author }}
+          <span itemprop="author">{{ .Params.author }}</span>
+        {{ end }}
+      </div>
+    {{ end }}
+  </header>
+  
+  <article class="post-content">
+    {{ .Content }}
+  </article>
+  
+  {{ if .PrevInSection }}
+    <div class="post-nav">
+      <div class="post-nav-item">
+        <a href="{{ .PrevInSection.Permalink }}">
+          <div class="nav-arrow">← Previous</div>
+          <div class="post-title">{{ .PrevInSection.Title }}</div>
+        </a>
+      </div>
+    </div>
+  {{ end }}
+  
+  {{ if .NextInSection }}
+    <div class="post-nav">
+      <div class="post-nav-item">
+        <a href="{{ .NextInSection.Permalink }}">
+          <div class="nav-arrow">Next →</div>
+          <div class="post-title">{{ .NextInSection.Title }}</div>
+        </a>
+      </div>
+    </div>
+  {{ end }}
+</main>
+{{ end }}

@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="ru-ru"><head><script src="/tbmc/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=tbmc/livereload" data-no-instant defer></script><meta charset="utf-8">
+<!DOCTYPE html><html lang="ru-ru"><head><script src="/tbmc/livereload.js?mindelay=10&amp;v=2&amp;port=64722&amp;path=tbmc/livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -18,7 +17,7 @@
 <meta property="og:locale" content="ru-ru" />
 <meta name="language" content="ru-ru" />
 
-  <link rel="alternate" hreflang="ru-ru" href="http://localhost:1313/tbmc/pages/" title="Russian" />
+  <link rel="alternate" hreflang="ru-ru" href="http://localhost:64722/tbmc/pages/" title="Russian" />
 
 
 
@@ -28,7 +27,7 @@
 <meta name="generator" content="Hugo 0.144.2">
 
     
-    <meta property="og:url" content="http://localhost:1313/tbmc/pages/">
+    <meta property="og:url" content="http://localhost:64722/tbmc/pages/">
   <meta property="og:site_name" content="TBMC">
   <meta property="og:title" content="Pages">
   <meta property="og:locale" content="ru_ru">
@@ -43,7 +42,7 @@
 
     
 
-    <link rel="canonical" href="http://localhost:1313/tbmc/pages/">
+    <link rel="canonical" href="http://localhost:64722/tbmc/pages/">
     <link href="/tbmc/pages/index.xml" rel="alternate" type="application/rss+xml" title="TBMC">
     <link href="/tbmc/pages/index.xml" rel="feed" type="application/rss+xml" title="TBMC">
     <link href="/tbmc/style.min.e390ba7da26222f4dc42a349955d76dbbe44e5ce2535a43de5a70633a0a9ec3c.css" rel="stylesheet">
@@ -59,7 +58,7 @@
 
 
 
-<link rel="manifest" href="http://localhost:1313/tbmc/site.webmanifest">
+<link rel="manifest" href="http://localhost:64722/tbmc/site.webmanifest">
 
 <meta name="msapplication-config" content="/tbmc/browserconfig.xml">
 <meta name="msapplication-TileColor" content="#2d89ef">
@@ -71,81 +70,181 @@
     
     
 </head>
-<body data-theme = "" class="notransition">
+<style>
+@font-face {
+  font-family: 'basis33';
+  src: url('/tbmc/fonts/basis33.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+body,
+html body,
+body * {
+  font-family: 'basis33', monospace !important;
+  font-size: 26px !important;
+  line-height: 1.5 !important;
+}
+
+ 
+h1, h2, h3, h4, h5, h6,
+p, div, span, a, li, ul, ol,
+.navbar, .menu, .wrapper, .author,
+.post-item, .footer, .page-content {
+  font-family: 'basis33', monospace !important;
+}
+
+ 
+h1 { font-size: 2.2em !important; }
+h2 { font-size: 1.8em !important; }
+h3 { font-size: 1.5em !important; }
+h4 { font-size: 1.3em !important; }
+h5 { font-size: 1.2em !important; }
+h6 { font-size: 1.1em !important; }
+
+ 
+.navbar, .menu { font-size: 20px !important; }
+.post-item .post-item-title { font-size: 18px !important; }
+.author .author-name { font-size: 4.5em !important; }
+.author .author-bio { font-size: 19px !important; }
+
+ 
+.logo-text {
+  font-size: 24px !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+ 
+.theme-toggle-spacer {
+  margin-left: 20px !important;
+}
+
+ 
+.post-cover {
+  margin-bottom: 20px !important;
+  text-align: center !important;
+}
+
+.cover-image {
+  max-width: 100% !important;
+  height: auto !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+ 
+a, a:visited {
+  color: #ff6b35 !important;
+}
+
+a:hover, a:focus {
+  color: #e55a2b !important;
+}
+
+.page-content a {
+  color: #ff6b35 !important;
+}
+
+.page-content a:hover, .page-content a:focus {
+  color: #e55a2b !important;
+}
+
+.post-item .post-item-title a:hover, .post-item .post-item-title a:focus {
+  color: #ff6b35 !important;
+}
+
+.post-nav .post-nav-item:hover .post-title, .post-nav .post-nav-item:focus .post-title {
+  color: #ff6b35 !important;
+}
+
+.menu .menu-link:hover {
+  color: #ff6b35 !important;
+}
+
+ 
+html.dark a, html.dark a:visited {
+  color: #ff6b35 !important;
+}
+
+html.dark a:hover, html.dark a:focus {
+  color: #ff8c5a !important;
+}
+
+html.dark .page-content a {
+  color: #ff6b35 !important;
+}
+
+html.dark .page-content a:hover, html.dark .page-content a:focus {
+  color: #ff8c5a !important;
+}
+</style>
+
+<body data-theme="auto" class="notransition">
 
 <script src="/tbmc/js/theme.js"></script>
 
 <div class="navbar" role="navigation">
     <nav class="menu" aria-label="Main Navigation">
-        <a href="http://localhost:1313/tbmc/" class="logo">
-            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
-viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
-stroke-linejoin="round" class="feather feather-home">
-<title>Домой</title>
-<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
-<polyline points="9 22 9 12 15 12 15 22"></polyline>
-</svg>
+        <a href="http://localhost:64722/tbmc/" class="logo">
+            <span class="logo-text">TBMC</span>
         </a>
         <input type="checkbox" id="menu-trigger" class="menu-trigger" />
         <label for="menu-trigger">
             <span class="menu-icon">
-                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" stroke="currentColor" fill="none" viewBox="0 0 14 14"><title>Menu</title><path stroke-linecap="round" stroke-linejoin="round" d="M10.595 7L3.40726 7"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 3.51488L3.49301 3.51488"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 10.4851H3.49301"></path><path stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" stroke="currentColor" fill="none" viewBox="0 0 14 14"><title></title><path stroke-linecap="round" stroke-linejoin="round" d="M10.595 7L3.40726 7"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 3.51488L3.49301 3.51488"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 10.4851H3.49301"></path><path stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z"></path></svg>
             </span>
         </label>
 
         <div class="trigger">
             <ul class="trigger-container">
-                
-                
-                <li class="menu-separator">
-                    <span>|</span>
+                <li>
+                    <a class="menu-link" href="http://localhost:64722/tbmc/pages/about/">О проекте</a>
                 </li>
-                
-                
             </ul>
+            <div class="theme-toggle-spacer"></div>
             <a id="mode" href="#">
                 <svg xmlns="http://www.w3.org/2000/svg" class="mode-sunny" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
-<title>LIGHT</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+<title></title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
                 <svg xmlns="http://www.w3.org/2000/svg" class="mode-moon" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
-<title>DARK</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+<title></title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
             </a>
         </div>
     </nav>
 </div>
-<div class="wrapper list-page">
+<div class="wrapper">
+    
+<main class="page-content" aria-label="Content">
+  
     <header class="header">
-        <h1 class="header-title center">Pages</h1>
+      <h1 class="header-title center">Pages</h1>
     </header>
-    <main class="page-content" aria-label="Content">
-        
-        
-        <h2 class="post-year">0001</h2>
-
-        
-
-        
-
+    
+    
+      <h2 class="post-year">2025</h2>
+      
         <article class="post-item">
     <h4 class="post-item-title">
-        <a href="/tbmc/pages/about/"></a>
+        <a href="/tbmc/pages/about/">О проекте</a>
     </h4>
     
     
     
     
-    <time class="post-item-meta" datetime="0001-01-01T00:00:00Z">
-        1 янв. 0001
+    <time class="post-item-meta" datetime="2025-10-03T00:00:00Z">
+        3 окт. 2025
         
     </time>
 </article>
 
+      
+    
+  
+</main>
 
-         
-
-         
-
-    </main>
-</div><footer class="footer">
+  </div><footer class="footer">
     <span class="footer_item"> </span>
     &nbsp;
 
@@ -164,7 +263,7 @@ stroke-linejoin="round" class="feather feather-home">
 
 
     
-    <script async src="http://localhost:1313/tbmc/js/main.js" ></script>
+    <script async src="http://localhost:64722/tbmc/js/main.js" ></script>
 
     
 

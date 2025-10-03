@@ -1,7 +1,7 @@
 {
     "name": "TBMC",
     "short_name": "TBMC",
-    "start_url": "http://localhost:1313/tbmc/",
+    "start_url": "http://localhost:64722/tbmc/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+{{- $defaultColor := .Site.Params.defaultColor | default "auto" -}}
+
+{{- if eq $defaultColor "dark" -}}
+<html lang="{{ .Site.LanguageCode }}" class="dark">
+{{- else if eq $defaultColor "light" -}}
+<html lang="{{ .Site.LanguageCode }}" class="light">
+{{- else -}}
+<html lang="{{ .Site.LanguageCode }}">
+{{- end -}}
+
+{{- partial "head.html" . -}}
+<style>
+@font-face {
+  font-family: 'basis33';
+  src: url('/tbmc/fonts/basis33.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+body,
+html body,
+body * {
+  font-family: 'basis33', monospace !important;
+  font-size: 26px !important;
+  line-height: 1.5 !important;
+}
+
+/* Specific overrides for common elements */
+h1, h2, h3, h4, h5, h6,
+p, div, span, a, li, ul, ol,
+.navbar, .menu, .wrapper, .author,
+.post-item, .footer, .page-content {
+  font-family: 'basis33', monospace !important;
+}
+
+/* Increase heading sizes */
+h1 { font-size: 2.2em !important; }
+h2 { font-size: 1.8em !important; }
+h3 { font-size: 1.5em !important; }
+h4 { font-size: 1.3em !important; }
+h5 { font-size: 1.2em !important; }
+h6 { font-size: 1.1em !important; }
+
+/* Increase specific element sizes */
+.navbar, .menu { font-size: 20px !important; }
+.post-item .post-item-title { font-size: 18px !important; }
+.author .author-name { font-size: 4.5em !important; }
+.author .author-bio { font-size: 19px !important; }
+
+/* Logo text styling */
+.logo-text {
+  font-size: 24px !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* Theme toggle spacer */
+.theme-toggle-spacer {
+  margin-left: 20px !important;
+}
+
+/* Post cover image styling */
+.post-cover {
+  margin-bottom: 20px !important;
+  text-align: center !important;
+}
+
+.cover-image {
+  max-width: 100% !important;
+  height: auto !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Burn orange accent color */
+a, a:visited {
+  color: #ff6b35 !important;
+}
+
+a:hover, a:focus {
+  color: #e55a2b !important;
+}
+
+.page-content a {
+  color: #ff6b35 !important;
+}
+
+.page-content a:hover, .page-content a:focus {
+  color: #e55a2b !important;
+}
+
+.post-item .post-item-title a:hover, .post-item .post-item-title a:focus {
+  color: #ff6b35 !important;
+}
+
+.post-nav .post-nav-item:hover .post-title, .post-nav .post-nav-item:focus .post-title {
+  color: #ff6b35 !important;
+}
+
+.menu .menu-link:hover {
+  color: #ff6b35 !important;
+}
+
+/* Dark theme burn orange accents */
+html.dark a, html.dark a:visited {
+  color: #ff6b35 !important;
+}
+
+html.dark a:hover, html.dark a:focus {
+  color: #ff8c5a !important;
+}
+
+html.dark .page-content a {
+  color: #ff6b35 !important;
+}
+
+html.dark .page-content a:hover, html.dark .page-content a:focus {
+  color: #ff8c5a !important;
+}
+</style>
+
+<body data-theme="{{ $defaultColor }}" class="notransition">
+  {{- partial "scriptsBodyStart.html" . -}}
+  {{- partial "header.html" . -}}
+  <div class="wrapper">
+    {{ partial "bio" . }}
+    <main aria-label="Content">
+
+    {{ .Content }}
+
+      <br/>
+
+      <h3 class="posts-item-note" aria-label="Recent Posts">{{ T "home.recent_posts" }}</h3>
+      {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
+      {{ $posts := $pagesToShow.ByDate.Reverse }}
+      {{ range first 5 $posts }}
+        {{ partial "postCard" . }}
+      {{ end }}
+      {{ if gt (len $posts) 5 }}
+        <p>
+          {{ range $firstSection := (where .Site.Sections "Section" "in" (first 1 (.Site.Params.mainSections))) }}
+            <a href="{{ $firstSection.Permalink }}">{{ T "home.see_all_posts" }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+    </main>
+  </div>
+  {{- partial "footer.html" . -}}
+  {{- partial "scriptsBodyEnd.html" . -}}
+</body>
+</html>
