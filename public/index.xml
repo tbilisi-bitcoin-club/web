@@ -6,7 +6,61 @@
     <description>Recent content on TBMC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 03 Oct 2025 21:10:06 +0400</lastBuildDate><atom:link href="http://localhost:64722/tbmc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64722/tbmc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Всё о Биткоине</title>
+      <link>http://localhost:64722/tbmc/pages/bitcoin/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:64722/tbmc/pages/bitcoin/</guid>
+      
+      <description>&lt;h2 id=&#34;что-такое-биткоин&#34;&gt;Что такое Биткоин&lt;/h2&gt;
+&lt;p&gt;Биткоин – невероятно комплексный феномен, и осветить все его составляющие на организованных нами лекциях и митапах невозможно. Хотите узнать больше о Биткоине? Обратите внимание на следующие ресурсы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://21ideas.org&#34;&gt;21ideas.org&lt;/a&gt;. Крупнейшая библиотека знаний о Биткоине на русском и английском языках. Здесь найдётся ответ на любой ваш вопрос. Используйте боковое меню, где каждая статья и книга распределены по категориям. Если знаете что ищете, воспользуйтесь поиском.&lt;/li&gt;
+&lt;li&gt;YouTube. Предпочитаете видео формат? Посетите YouTube-каналы &lt;a href=&#34;https://www.youtube.com/@21ideas&#34;&gt;21ideas&lt;/a&gt; и &lt;a href=&#34;https://www.youtube.com/@bitkorn&#34;&gt;BitKorn&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Аудио. Аудиокниги, подкасты и аудиоверсии статей собраны в аудио формате и доступны на &lt;a href=&#34;https://fountain.fm/show/chmjnVB1ZkSY3MC2FxY8&#34;&gt;Fountain&lt;/a&gt;, &lt;a href=&#34;https://open.spotify.com/show/1vjCoEDFPYaqKm3HasOZrK&#34;&gt;Spotify&lt;/a&gt;, и всех популярынх платформах. Ищите &lt;code&gt;21ideas&lt;/code&gt; на своей любимой подкаст-площадке.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Присоединяйтесь к нашему сообществу TBMC, чтобы изучать Биткоин вместе!&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Поддержать</title>
+      <link>http://localhost:64722/tbmc/pages/support/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:64722/tbmc/pages/support/</guid>
+      
+      <description>&lt;h2 id=&#34;поддержать-проект-tbmc&#34;&gt;Поддержать проект TBMC&lt;/h2&gt;
+&lt;p&gt;TBMC – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
+&lt;h3 id=&#34;как-вы-можете-помочь&#34;&gt;Как вы можете помочь&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Финансовая поддержка:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Лайтнинг-адрес: &lt;code&gt;tbmc@coinos.io&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Для получения биткоин-адреса и других вариантов отправки средств, перейдите на нашу страничку на Coinos: &lt;a href=&#34;https://coinos.io/tbmc/receive&#34;&gt;https://coinos.io/tbmc/receive&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Другие способы поддержки:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Участие в мероприятиях&lt;/li&gt;
+&lt;li&gt;Распространение информации о проекте&lt;/li&gt;
+&lt;li&gt;Предложение тем для лекций и воркшопов&lt;/li&gt;
+&lt;li&gt;Волонтерская помощь в организации событий&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;на-что-идут-средства&#34;&gt;На что идут средства&lt;/h3&gt;
+&lt;p&gt;Собранные средства пойдут на:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Печать материалов&lt;/li&gt;
+&lt;li&gt;Покупку технического оборудования&lt;/li&gt;
+&lt;li&gt;Поддержку проектов, предоставляющих площадку для общения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;контакты&#34;&gt;Контакты&lt;/h3&gt;
+&lt;p&gt;Если у вас есть вопросы о том, как поддержать проект, свяжитесь с нами, приходите на наши ивенты, мы открыты к общению.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Почему Биткоин? Первая лекция Tbilisi Bitcoin Club</title>
       <link>http://localhost:64722/tbmc/posts/first-lection/</link>
@@ -39,8 +93,8 @@
       <guid>http://localhost:64722/tbmc/pages/about/</guid>
       
       <description>&lt;p&gt;Цель проекта TBMC – развить биткоин-сообщество в Тбилиси.&lt;/p&gt;
-&lt;p&gt;Проект является некоммерческой инициативой биткоинеров, проживающих в Тбилиси.&lt;/p&gt;
-&lt;p&gt;Наши планы на будущее – проведение образовательных лекций, воркшопов, дискуссий, чтобы улучшить биткоин-осведомленность жителей Тбилиси.&lt;/p&gt;
+&lt;p&gt;Проект является некоммерческой инициативой биткоинеров, проживающих в столице Грузии.&lt;/p&gt;
+&lt;p&gt;В планах проведение образовательных лекций, воркшопов, дискуссий, чтобы улучшить биткоин-осведомлённость жителей Тбилиси.&lt;/p&gt;
 &lt;p&gt;О предстоящих мероприятиях можно узнать в нашем блоге. Приходите на встречи, будем обмениваться опытом.&lt;/p&gt;</description>
       
     </item>
