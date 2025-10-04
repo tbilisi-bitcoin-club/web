@@ -12,17 +12,33 @@
 {{- partial "head.html" . -}}
 <style>
 @font-face {
-  font-family: 'basis33';
-  src: url('/tbmc/fonts/basis33.ttf') format('truetype');
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
   font-display: swap;
 }
 
 body,
 html body,
 body * {
-  font-family: 'basis33', monospace !important;
+  font-family: 'AnonymousPro', monospace !important;
   font-size: 26px !important;
   line-height: 1.5 !important;
 }
@@ -32,7 +48,7 @@ h1, h2, h3, h4, h5, h6,
 p, div, span, a, li, ul, ol,
 .navbar, .menu, .wrapper, .author,
 .post-item, .footer, .page-content {
-  font-family: 'basis33', monospace !important;
+  font-family: 'AnonymousPro', monospace !important;
 }
 
 /* Increase heading sizes */
@@ -44,7 +60,8 @@ h5 { font-size: 1.2em !important; }
 h6 { font-size: 1.1em !important; }
 
 /* Increase specific element sizes */
-.navbar, .menu { font-size: 20px !important; }
+.navbar, .menu { font-size: 16px !important; }
+.menu-link { font-size: 16px !important; }
 .post-item .post-item-title { font-size: 18px !important; }
 .author .author-name { font-size: 4.5em !important; }
 .author .author-bio { font-size: 19px !important; }
@@ -125,7 +142,7 @@ html.dark .page-content a:hover, html.dark .page-content a:focus {
 .social-icons-block {
   display: block !important;
   width: 100% !important;
-  margin: 60px 0 0 0 !important;
+  margin: 20px 0 0 0 !important;
   padding: 0 !important;
   text-align: center !important;
   border-top: 1px solid #e0e0e0 !important;
@@ -137,7 +154,7 @@ html.dark .page-content a:hover, html.dark .page-content a:focus {
   align-items: center !important;
   justify-content: center !important;
   margin: 0 auto !important;
-  padding: 40px 20px !important;
+  padding: 20px 20px !important;
   width: 100% !important;
   max-width: 1200px !important;
   text-align: center !important;

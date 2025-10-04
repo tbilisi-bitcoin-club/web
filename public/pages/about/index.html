@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ru-ru"><head><script src="/tbmc/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=tbmc/livereload" data-no-instant defer></script><meta charset="utf-8">
+<!DOCTYPE html><html lang="ru-ru"><head><script src="/tbmc/livereload.js?mindelay=10&amp;v=2&amp;port=64722&amp;path=tbmc/livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -9,15 +9,15 @@
 <meta name="application-name" content="О проекте | TBMC" />
 <meta property="og:site_name" content="" />
 
-<meta name="description" content="TBMC – сообщество биткоинеров в Тбилиси">
-<meta itemprop="description" content="TBMC – сообщество биткоинеров в Тбилиси" />
-<meta property="og:description" content="TBMC – сообщество биткоинеров в Тбилиси" />
-<meta name="twitter:description" content="TBMC – сообщество биткоинеров в Тбилиси" />
+<meta name="description" content="TBC – сообщество биткоинеров в Тбилиси">
+<meta itemprop="description" content="TBC – сообщество биткоинеров в Тбилиси" />
+<meta property="og:description" content="TBC – сообщество биткоинеров в Тбилиси" />
+<meta name="twitter:description" content="TBC – сообщество биткоинеров в Тбилиси" />
 
 <meta property="og:locale" content="ru-ru" />
 <meta name="language" content="ru-ru" />
 
-  <link rel="alternate" hreflang="ru-ru" href="http://localhost:1313/tbmc/pages/about/" title="Russian" />
+  <link rel="alternate" hreflang="ru-ru" href="http://localhost:64722/tbmc/pages/about/" title="Russian" />
 
 
 
@@ -27,10 +27,10 @@
 <meta name="generator" content="Hugo 0.144.2">
 
     
-    <meta property="og:url" content="http://localhost:1313/tbmc/pages/about/">
+    <meta property="og:url" content="http://localhost:64722/tbmc/pages/about/">
   <meta property="og:site_name" content="TBMC">
   <meta property="og:title" content="О проекте">
-  <meta property="og:description" content="TBMC – сообщество биткоинеров в Тбилиси">
+  <meta property="og:description" content="TBC – сообщество биткоинеров в Тбилиси">
   <meta property="og:locale" content="ru_ru">
   <meta property="og:type" content="article">
     <meta property="article:section" content="pages">
@@ -42,12 +42,12 @@
     
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="О проекте">
-  <meta name="twitter:description" content="TBMC – сообщество биткоинеров в Тбилиси">
+  <meta name="twitter:description" content="TBC – сообщество биткоинеров в Тбилиси">
 
 
     
 
-    <link rel="canonical" href="http://localhost:1313/tbmc/pages/about/">
+    <link rel="canonical" href="http://localhost:64722/tbmc/pages/about/">
     <link href="/tbmc/style.min.e390ba7da26222f4dc42a349955d76dbbe44e5ce2535a43de5a70633a0a9ec3c.css" rel="stylesheet">
     <link href="/tbmc/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
 
@@ -61,7 +61,7 @@
 
 
 
-<link rel="manifest" href="http://localhost:1313/tbmc/site.webmanifest">
+<link rel="manifest" href="http://localhost:64722/tbmc/site.webmanifest">
 
 <meta name="msapplication-config" content="/tbmc/browserconfig.xml">
 <meta name="msapplication-TileColor" content="#2d89ef">
@@ -75,17 +75,33 @@
 </head>
 <style>
 @font-face {
-  font-family: 'basis33';
-  src: url('/tbmc/fonts/basis33.ttf') format('truetype');
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
   font-display: swap;
 }
 
 body,
 html body,
 body * {
-  font-family: 'basis33', monospace !important;
+  font-family: 'AnonymousPro', monospace !important;
   font-size: 26px !important;
   line-height: 1.5 !important;
 }
@@ -95,7 +111,7 @@ h1, h2, h3, h4, h5, h6,
 p, div, span, a, li, ul, ol,
 .navbar, .menu, .wrapper, .author,
 .post-item, .footer, .page-content {
-  font-family: 'basis33', monospace !important;
+  font-family: 'AnonymousPro', monospace !important;
 }
 
  
@@ -107,7 +123,8 @@ h5 { font-size: 1.2em !important; }
 h6 { font-size: 1.1em !important; }
 
  
-.navbar, .menu { font-size: 20px !important; }
+.navbar, .menu { font-size: 16px !important; }
+.menu-link { font-size: 16px !important; }
 .post-item .post-item-title { font-size: 18px !important; }
 .author .author-name { font-size: 4.5em !important; }
 .author .author-bio { font-size: 19px !important; }
@@ -188,7 +205,7 @@ html.dark .page-content a:hover, html.dark .page-content a:focus {
 .social-icons-block {
   display: block !important;
   width: 100% !important;
-  margin: 60px 0 0 0 !important;
+  margin: 20px 0 0 0 !important;
   padding: 0 !important;
   text-align: center !important;
   border-top: 1px solid #e0e0e0 !important;
@@ -200,7 +217,7 @@ html.dark .page-content a:hover, html.dark .page-content a:focus {
   align-items: center !important;
   justify-content: center !important;
   margin: 0 auto !important;
-  padding: 40px 20px !important;
+  padding: 20px 20px !important;
   width: 100% !important;
   max-width: 1200px !important;
   text-align: center !important;
@@ -246,8 +263,8 @@ html.dark .social-icon:hover {
 
 <div class="navbar" role="navigation">
     <nav class="menu" aria-label="Main Navigation">
-        <a href="http://localhost:1313/tbmc/" class="logo">
-            <span class="logo-text">TBMC</span>
+        <a href="http://localhost:64722/tbmc/" class="logo">
+            <span class="logo-text">T₿C</span>
         </a>
         <input type="checkbox" id="menu-trigger" class="menu-trigger" />
         <label for="menu-trigger">
@@ -259,13 +276,13 @@ html.dark .social-icon:hover {
         <div class="trigger">
             <ul class="trigger-container">
                 <li>
-                    <a class="menu-link" href="http://localhost:1313/tbmc/pages/about/">О проекте</a>
+                    <a class="menu-link" href="http://localhost:64722/tbmc/pages/about/">О проекте</a>
                 </li>
                 <li>
-                    <a class="menu-link" href="http://localhost:1313/tbmc/pages/support/">Поддержать</a>
+                    <a class="menu-link" href="http://localhost:64722/tbmc/pages/support/">Поддержать</a>
                 </li>
                 <li>
-                    <a class="menu-link" href="http://localhost:1313/tbmc/pages/bitcoin/">Всё о Биткоине</a>
+                    <a class="menu-link" href="http://localhost:64722/tbmc/pages/bitcoin/">Всё о Биткоине</a>
                 </li>
             </ul>
             <div class="theme-toggle-spacer"></div>
@@ -297,7 +314,7 @@ html.dark .social-icon:hover {
   </header>
   
   <article class="post-content">
-    <p>Цель проекта TBMC – развить биткоин-сообщество в Тбилиси.</p>
+    <p>Цель проекта T₿C – развить биткоин-сообщество в Тбилиси.</p>
 <p>Проект является некоммерческой инициативой биткоинеров, проживающих в столице Грузии.</p>
 <p>В планах проведение образовательных лекций, воркшопов, дискуссий, чтобы улучшить биткоин-осведомлённость жителей Тбилиси.</p>
 <p>О предстоящих мероприятиях можно узнать в нашем блоге. Приходите на встречи, будем обмениваться опытом.</p>
@@ -309,7 +326,7 @@ html.dark .social-icon:hover {
   
     <div class="post-nav">
       <div class="post-nav-item">
-        <a href="http://localhost:1313/tbmc/pages/support/">
+        <a href="http://localhost:64722/tbmc/pages/support/">
           <div class="nav-arrow">Next →</div>
           <div class="post-title">Поддержать</div>
         </a>
@@ -321,7 +338,6 @@ html.dark .social-icon:hover {
   </div>
 
   <footer class="footer">
-    <span class="footer_item">© 2025 TBMC</span>
 </footer>
 
 
@@ -332,7 +348,7 @@ html.dark .social-icon:hover {
 
 
     
-    <script async src="http://localhost:1313/tbmc/js/main.js" ></script>
+    <script async src="http://localhost:64722/tbmc/js/main.js" ></script>
 
     
 

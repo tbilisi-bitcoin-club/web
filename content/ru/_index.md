@@ -1,8 +1,6 @@
 ---
-title: "TBMC"
+title: "TBC"
 author: "Tony"
 ---
 
-# **TBMC**
-
-Tbilisi Bitcoin Maxi Club – биткоин‑сообщество в Тбилиси
+**Tbilisi Bitcoin Club** – биткоин‑сообщество в Тбилиси
