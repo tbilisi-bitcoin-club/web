@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on TBMC</title>
-    <link>http://localhost:1314/tbmc/pages/</link>
+    <link>http://localhost:64722/tbmc/pages/</link>
     <description>Recent content in Pages on TBMC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tbmc/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64722/tbmc/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Всё о Биткоине</title>
-      <link>http://localhost:1314/tbmc/pages/bitcoin/</link>
+      <link>http://localhost:64722/tbmc/pages/bitcoin/</link>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1314/tbmc/pages/bitcoin/</guid>
+      <guid>http://localhost:64722/tbmc/pages/bitcoin/</guid>
       
       <description>&lt;h2 id=&#34;что-такое-биткоин&#34;&gt;Что такое Биткоин&lt;/h2&gt;
 &lt;p&gt;Биткоин – невероятно комплексный феномен, и осветить все его составляющие на организованных нами лекциях и митапах невозможно. Хотите узнать больше о Биткоине? Обратите внимание на следующие ресурсы:&lt;/p&gt;
@@ -28,13 +28,13 @@
     
     <item>
       <title>Поддержать</title>
-      <link>http://localhost:1314/tbmc/pages/support/</link>
+      <link>http://localhost:64722/tbmc/pages/support/</link>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1314/tbmc/pages/support/</guid>
+      <guid>http://localhost:64722/tbmc/pages/support/</guid>
       
-      <description>&lt;h2 id=&#34;поддержать-проект-tc&#34;&gt;Поддержать проект T₿C&lt;/h2&gt;
-&lt;p&gt;T₿C – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;поддержать-tc&#34;&gt;Поддержать T₿C&lt;/h2&gt;
+&lt;p&gt;Tbilisi ₿itcoin Club – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
 &lt;h3 id=&#34;как-вы-можете-помочь&#34;&gt;Как вы можете помочь&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Финансовая поддержка:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -47,7 +47,7 @@
 &lt;li&gt;Участие в мероприятиях&lt;/li&gt;
 &lt;li&gt;Распространение информации о проекте&lt;/li&gt;
 &lt;li&gt;Предложение тем для лекций и воркшопов&lt;/li&gt;
-&lt;li&gt;Волонтерская помощь в организации событий&lt;/li&gt;
+&lt;li&gt;Волонтёрская помощь в организации событий&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;на-что-пойдут-средства&#34;&gt;На что пойдут средства&lt;/h3&gt;
 &lt;ul&gt;
@@ -62,22 +62,23 @@
     
     <item>
       <title>О проекте</title>
-      <link>http://localhost:1314/tbmc/pages/about/</link>
+      <link>http://localhost:64722/tbmc/pages/about/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1314/tbmc/pages/about/</guid>
+      <guid>http://localhost:64722/tbmc/pages/about/</guid>
       
       <description>&lt;p&gt;Цель проекта &lt;strong&gt;T₿C&lt;/strong&gt; – развить биткоин-сообщество в Тбилиси.&lt;/p&gt;
 &lt;p&gt;Проект является некоммерческой инициативой биткоинеров, проживающих в столице Грузии.&lt;/p&gt;
 &lt;p&gt;В планах проведение образовательных лекций, воркшопов, дискуссий, коллаборации с близкими по духу сообществами и бизнесами.&lt;/p&gt;
-&lt;p&gt;О предстоящих мероприятиях можно узнать в нашем &lt;a href=&#34;http://localhost:1314/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; или подписавшись на &lt;a href=&#34;http://localhost:1314/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленту.&lt;/p&gt;
+&lt;p&gt;О предстоящих мероприятиях можно узнать в нашем &lt;a href=&#34;http://localhost:64722/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; или подписавшись на &lt;a href=&#34;http://localhost:64722/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленту.&lt;/p&gt;
 &lt;p&gt;Приходите на встречи, будем обмениваться опытом.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;навигация&#34;&gt;Навигация&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Ознакомиться с предстоящими мероприятиями можно &lt;a href=&#34;http://localhost:1314/tbmc/posts/&#34;&gt;здесь&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Поддержать Tbilisi Bitcoin Club можно &lt;a href=&#34;http://localhost:1314/tbmc/pages/support/&#34;&gt;здесь&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Ссылки на ресурсы, посвящённые Биткоину, можно найти &lt;a href=&#34;http://localhost:1314/tbmc/pages/bitcoin/&#34;&gt;здесь&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ознакомиться с предстоящими мероприятиями можно &lt;strong&gt;&lt;a href=&#34;http://localhost:64722/tbmc/posts/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Подписаться на RSS-рассылку можно &lt;strong&gt;&lt;a href=&#34;http://localhost:64722/tbmc/index.xml&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Поддержать Tbilisi Bitcoin Club можно &lt;strong&gt;&lt;a href=&#34;http://localhost:64722/tbmc/pages/support/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Ссылки на ресурсы, посвящённые Биткоину, можно найти &lt;strong&gt;&lt;a href=&#34;http://localhost:64722/tbmc/pages/bitcoin/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;</description>
       
     </item>
