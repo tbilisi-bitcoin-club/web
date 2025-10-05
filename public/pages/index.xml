@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on TBMC</title>
-    <link>http://localhost:1313/tbmc/pages/</link>
+    <link>http://localhost:1314/tbmc/pages/</link>
     <description>Recent content in Pages on TBMC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tbmc/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tbmc/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Всё о Биткоине</title>
-      <link>http://localhost:1313/tbmc/pages/bitcoin/</link>
+      <link>http://localhost:1314/tbmc/pages/bitcoin/</link>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tbmc/pages/bitcoin/</guid>
+      <guid>http://localhost:1314/tbmc/pages/bitcoin/</guid>
       
       <description>&lt;h2 id=&#34;что-такое-биткоин&#34;&gt;Что такое Биткоин&lt;/h2&gt;
 &lt;p&gt;Биткоин – невероятно комплексный феномен, и осветить все его составляющие на организованных нами лекциях и митапах невозможно. Хотите узнать больше о Биткоине? Обратите внимание на следующие ресурсы:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://21ideas.org&#34;&gt;21ideas.org&lt;/a&gt;. Крупнейшая библиотека знаний о Биткоине на русском и английском языках. Здесь найдётся ответ на любой ваш вопрос. Используйте боковое меню, где каждая статья и книга распределены по категориям. Если знаете что ищете, воспользуйтесь поиском.&lt;/li&gt;
-&lt;li&gt;YouTube. Предпочитаете видео формат? Посетите YouTube-каналы &lt;a href=&#34;https://www.youtube.com/@21ideas&#34;&gt;21ideas&lt;/a&gt; и &lt;a href=&#34;https://www.youtube.com/@bitkorn&#34;&gt;BitKorn&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Аудио. Аудиокниги, подкасты и аудиоверсии статей собраны в аудио формате и доступны на &lt;a href=&#34;https://fountain.fm/show/chmjnVB1ZkSY3MC2FxY8&#34;&gt;Fountain&lt;/a&gt;, &lt;a href=&#34;https://open.spotify.com/show/1vjCoEDFPYaqKm3HasOZrK&#34;&gt;Spotify&lt;/a&gt;, и всех популярынх платформах. Ищите &lt;code&gt;21ideas&lt;/code&gt; на своей любимой подкаст-площадке.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Текст:&lt;/strong&gt; Крупнейшая библиотека знаний о Биткоине на русском и английском языках разместилась по адресу &lt;a href=&#34;https://21ideas.org&#34;&gt;21ideas.org&lt;/a&gt;. Здесь найдётся ответ на любой ваш вопрос. Используйте боковое меню, где каждая статья и книга распределены по категориям. Если знаете что ищете, воспользуйтесь поиском.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Видео:&lt;/strong&gt; Предпочитаете видео формат? Посетите YouTube-каналы &lt;a href=&#34;https://www.youtube.com/@21ideas&#34;&gt;21ideas&lt;/a&gt; и &lt;a href=&#34;https://www.youtube.com/@bitkorn&#34;&gt;BitKorn&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Аудио:&lt;/strong&gt; Аудиокниги, подкасты и аудиоверсии статей собраны в аудио формате и доступны на &lt;a href=&#34;https://fountain.fm/show/chmjnVB1ZkSY3MC2FxY8&#34;&gt;Fountain&lt;/a&gt;, &lt;a href=&#34;https://open.spotify.com/show/1vjCoEDFPYaqKm3HasOZrK&#34;&gt;Spotify&lt;/a&gt;, и всех популярынх платформах. Ищите &lt;code&gt;21ideas&lt;/code&gt; на своей любимой подкаст-площадке.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Присоединяйтесь к нашему сообществу TBMC, чтобы изучать Биткоин вместе!&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;em&gt;Присоединяйтесь к &lt;strong&gt;Tbilisi Bitcoin Club&lt;/strong&gt;, чтобы изучать Биткоин вместе!&lt;/em&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Поддержать</title>
-      <link>http://localhost:1313/tbmc/pages/support/</link>
+      <link>http://localhost:1314/tbmc/pages/support/</link>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tbmc/pages/support/</guid>
+      <guid>http://localhost:1314/tbmc/pages/support/</guid>
       
       <description>&lt;h2 id=&#34;поддержать-проект-tc&#34;&gt;Поддержать проект T₿C&lt;/h2&gt;
 &lt;p&gt;T₿C – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
@@ -62,15 +62,23 @@
     
     <item>
       <title>О проекте</title>
-      <link>http://localhost:1313/tbmc/pages/about/</link>
+      <link>http://localhost:1314/tbmc/pages/about/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tbmc/pages/about/</guid>
+      <guid>http://localhost:1314/tbmc/pages/about/</guid>
       
       <description>&lt;p&gt;Цель проекта &lt;strong&gt;T₿C&lt;/strong&gt; – развить биткоин-сообщество в Тбилиси.&lt;/p&gt;
 &lt;p&gt;Проект является некоммерческой инициативой биткоинеров, проживающих в столице Грузии.&lt;/p&gt;
 &lt;p&gt;В планах проведение образовательных лекций, воркшопов, дискуссий, коллаборации с близкими по духу сообществами и бизнесами.&lt;/p&gt;
-&lt;p&gt;О предстоящих мероприятиях можно узнать в нашем &lt;a href=&#34;http://localhost:1313/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; или подписавшись на &lt;a href=&#34;http://localhost:1313/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленту. Приходите на встречи, будем обмениваться опытом.&lt;/p&gt;</description>
+&lt;p&gt;О предстоящих мероприятиях можно узнать в нашем &lt;a href=&#34;http://localhost:1314/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; или подписавшись на &lt;a href=&#34;http://localhost:1314/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленту.&lt;/p&gt;
+&lt;p&gt;Приходите на встречи, будем обмениваться опытом.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;навигация&#34;&gt;Навигация&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ознакомиться с предстоящими мероприятиями можно &lt;a href=&#34;http://localhost:1314/tbmc/posts/&#34;&gt;здесь&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Поддержать Tbilisi Bitcoin Club можно &lt;a href=&#34;http://localhost:1314/tbmc/pages/support/&#34;&gt;здесь&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ссылки на ресурсы, посвящённые Биткоину, можно найти &lt;a href=&#34;http://localhost:1314/tbmc/pages/bitcoin/&#34;&gt;здесь&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
