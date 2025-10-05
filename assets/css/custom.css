@@ -63,11 +63,14 @@ h6 { font-size: 1.1em !important; }
 /* Theme toggle spacer */
 .theme-toggle-spacer {
   margin-left: 20px !important;
+  margin-top: 10px !important;
+  margin-bottom: 0 !important;
 }
 
 /* Post cover image styling */
 .post-cover {
-  margin-bottom: 20px !important;
+  margin-bottom: 10px !important;
+  margin-top: 0 !important;
   text-align: center !important;
 }
 
@@ -176,6 +179,48 @@ html.dark .social-icon {
 }
 
 html.dark .social-icon:hover {
+  color: #ff6b35 !important;
+}
+
+/* Footer icons styling */
+.footer-icons {
+  display: flex !important;
+  gap: 12px !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 20px 0 !important;
+  border-top: 1px solid #e0e0e0 !important;
+}
+
+.footer-icon {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  color: #666 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease !important;
+  margin: 0 6px !important;
+}
+
+.footer-icon:hover {
+  color: #ff6b35 !important;
+}
+
+.footer-icon svg {
+  width: 30px;
+  height: 30px;
+}
+
+/* Dark theme footer icons */
+html.dark .footer-icons {
+  border-top-color: #333 !important;
+}
+
+html.dark .footer-icon {
+  color: #999 !important;
+}
+
+html.dark .footer-icon:hover {
   color: #ff6b35 !important;
 }
 

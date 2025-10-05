@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on TBMC</title>
-    <link>https://bitcoin21ideas.github.io/tbmc/pages/</link>
+    <link>http://localhost:1313/tbmc/pages/</link>
     <description>Recent content in Pages on TBMC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bitcoin21ideas.github.io/tbmc/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tbmc/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Всё о Биткоине</title>
-      <link>https://bitcoin21ideas.github.io/tbmc/pages/bitcoin/</link>
+      <link>http://localhost:1313/tbmc/pages/bitcoin/</link>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://bitcoin21ideas.github.io/tbmc/pages/bitcoin/</guid>
+      <guid>http://localhost:1313/tbmc/pages/bitcoin/</guid>
       
       <description>&lt;h2 id=&#34;что-такое-биткоин&#34;&gt;Что такое Биткоин&lt;/h2&gt;
 &lt;p&gt;Биткоин – невероятно комплексный феномен, и осветить все его составляющие на организованных нами лекциях и митапах невозможно. Хотите узнать больше о Биткоине? Обратите внимание на следующие ресурсы:&lt;/p&gt;
@@ -28,13 +28,13 @@
     
     <item>
       <title>Поддержать</title>
-      <link>https://bitcoin21ideas.github.io/tbmc/pages/support/</link>
+      <link>http://localhost:1313/tbmc/pages/support/</link>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://bitcoin21ideas.github.io/tbmc/pages/support/</guid>
+      <guid>http://localhost:1313/tbmc/pages/support/</guid>
       
-      <description>&lt;h2 id=&#34;поддержать-проект-tbmc&#34;&gt;Поддержать проект TBMC&lt;/h2&gt;
-&lt;p&gt;TBMC – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;поддержать-проект-tc&#34;&gt;Поддержать проект T₿C&lt;/h2&gt;
+&lt;p&gt;T₿C – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
 &lt;h3 id=&#34;как-вы-можете-помочь&#34;&gt;Как вы можете помочь&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Финансовая поддержка:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -49,29 +49,28 @@
 &lt;li&gt;Предложение тем для лекций и воркшопов&lt;/li&gt;
 &lt;li&gt;Волонтерская помощь в организации событий&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;на-что-идут-средства&#34;&gt;На что идут средства&lt;/h3&gt;
-&lt;p&gt;Собранные средства пойдут на:&lt;/p&gt;
+&lt;h3 id=&#34;на-что-пойдут-средства&#34;&gt;На что пойдут средства&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Печать материалов&lt;/li&gt;
 &lt;li&gt;Покупку технического оборудования&lt;/li&gt;
 &lt;li&gt;Поддержку проектов, предоставляющих площадку для общения&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;контакты&#34;&gt;Контакты&lt;/h3&gt;
-&lt;p&gt;Если у вас есть вопросы о том, как поддержать проект, свяжитесь с нами, приходите на наши ивенты, мы открыты к общению.&lt;/p&gt;</description>
+&lt;p&gt;Если у вас есть вопросы о том, как поддержать проект, приходите на наши ивенты, мы открыты к общению.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>О проекте</title>
-      <link>https://bitcoin21ideas.github.io/tbmc/pages/about/</link>
+      <link>http://localhost:1313/tbmc/pages/about/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://bitcoin21ideas.github.io/tbmc/pages/about/</guid>
+      <guid>http://localhost:1313/tbmc/pages/about/</guid>
       
-      <description>&lt;p&gt;Цель проекта TBMC – развить биткоин-сообщество в Тбилиси.&lt;/p&gt;
+      <description>&lt;p&gt;Цель проекта &lt;strong&gt;T₿C&lt;/strong&gt; – развить биткоин-сообщество в Тбилиси.&lt;/p&gt;
 &lt;p&gt;Проект является некоммерческой инициативой биткоинеров, проживающих в столице Грузии.&lt;/p&gt;
-&lt;p&gt;В планах проведение образовательных лекций, воркшопов, дискуссий, чтобы улучшить биткоин-осведомлённость жителей Тбилиси.&lt;/p&gt;
-&lt;p&gt;О предстоящих мероприятиях можно узнать в нашем блоге. Приходите на встречи, будем обмениваться опытом.&lt;/p&gt;</description>
+&lt;p&gt;В планах проведение образовательных лекций, воркшопов, дискуссий, коллаборации с близкими по духу сообществами и бизнесами.&lt;/p&gt;
+&lt;p&gt;О предстоящих мероприятиях можно узнать в нашем &lt;a href=&#34;http://localhost:1313/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; или подписавшись на &lt;a href=&#34;http://localhost:1313/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленту. Приходите на встречи, будем обмениваться опытом.&lt;/p&gt;</description>
       
     </item>
     
