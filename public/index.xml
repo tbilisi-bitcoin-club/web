@@ -33,8 +33,7 @@
       
       <guid>http://localhost:64722/tbmc/pages/support/</guid>
       
-      <description>&lt;h2 id=&#34;поддержать-tc&#34;&gt;Поддержать T₿C&lt;/h2&gt;
-&lt;p&gt;Tbilisi ₿itcoin Club – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Tbilisi ₿itcoin Club&lt;/strong&gt; – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
 &lt;h3 id=&#34;как-вы-можете-помочь&#34;&gt;Как вы можете помочь&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Финансовая поддержка:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -68,7 +67,15 @@
       <guid>http://localhost:64722/tbmc/posts/first-lection/</guid>
       
       <description>&lt;h2 id=&#34;первая-лекция-tbilisi-bitcoin-club&#34;&gt;Первая лекция Tbilisi Bitcoin Club&lt;/h2&gt;
-&lt;p&gt;Первая лекция, подготовленная Tbilisi Bitcoin Club, намечена на октябрь 2025. Точная дата в процессе подтверждения. Следите за нашим &lt;a href=&#34;http://localhost:64722/tbmc/posts/&#34;&gt;блогом&lt;/a&gt; или подписывайтесь на &lt;a href=&#34;http://localhost:64722/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt; ленту.&lt;/p&gt;</description>
+&lt;p&gt;Многие слышали о Биткоине, но не каждый до конца осознаёт его предназначение. Это инструмент обогащения? Финансовая пирамида? Ответ доллару? Устаревшая криптовалюта?&lt;/p&gt;
+&lt;p&gt;На первой лекции, организованной Tbilisi Bitcoin Club, мы поговорим о том, какую проблему решает Биткоин, почему современные деньги сломаны и почему &amp;ldquo;крипта&amp;rdquo; в широком смысле этого слова не решает насущных проблем.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Как мы пришли к современным &amp;ldquo;деньгам&amp;rdquo;?&lt;/li&gt;
+&lt;li&gt;Почему деньги сломаны?&lt;/li&gt;
+&lt;li&gt;Как Биткоин решает проблему денег?&lt;/li&gt;
+&lt;li&gt;Почему &amp;ldquo;крипта&amp;rdquo; не решает проблему денег?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Лектор – Тони, основатель крупнейшего русскоязычного образовательного ресурса о Биткоине.&lt;/p&gt;</description>
       
     </item>
     
@@ -102,7 +109,7 @@
       
       <guid>http://localhost:64722/tbmc/posts/hello/</guid>
       
-      <description>&lt;p&gt;Всем привет. Это первый пост проекта TBMC – Tbilisi Bitcoin Maxi Club&lt;/p&gt;
+      <description>&lt;p&gt;Всем привет. Это первый пост проекта Tbilisi Bitcoin Club (T₿C)&lt;/p&gt;
 &lt;p&gt;С сегодняшнего дня мы будем публиковать анонсы, новости и отчёты в этом блоге.&lt;/p&gt;
 &lt;p&gt;Есть вопросы или предложения? Приходите на наши лекции или митапы, мы открыты к общению. Анонсы предстоящих событий будут публиковаться в нашем &lt;a href=&#34;http://localhost:64722/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; и &lt;a href=&#34;http://localhost:64722/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленте.&lt;/p&gt;</description>
       
