@@ -81,50 +81,50 @@ h6 { font-size: 1.1em !important; }
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
 }
 
-/* Burn orange accent color */
+/* Accent color */
 a, a:visited {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 a:hover, a:focus {
-  color: #e55a2b !important;
+  color: #ff9500 !important;
 }
 
 .page-content a {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 .page-content a:hover, .page-content a:focus {
-  color: #e55a2b !important;
+  color: #ff9500 !important;
 }
 
 .post-item .post-item-title a:hover, .post-item .post-item-title a:focus {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 .post-nav .post-nav-item:hover .post-title, .post-nav .post-nav-item:focus .post-title {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 .menu .menu-link:hover {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
-/* Dark theme burn orange accents */
+/* Dark theme accents */
 html.dark a, html.dark a:visited {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 html.dark a:hover, html.dark a:focus {
-  color: #ff8c5a !important;
+  color: #ff9500 !important;
 }
 
 html.dark .page-content a {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 html.dark .page-content a:hover, html.dark .page-content a:focus {
-  color: #ff8c5a !important;
+  color: #ff9500 !important;
 }
 
 /* Social icons block styling */
@@ -161,7 +161,7 @@ html.dark .page-content a:hover, html.dark .page-content a:focus {
 }
 
 .social-icon:hover {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 .social-icon svg {
@@ -179,7 +179,7 @@ html.dark .social-icon {
 }
 
 html.dark .social-icon:hover {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 /* Footer icons styling */
@@ -203,7 +203,7 @@ html.dark .social-icon:hover {
 }
 
 .footer-icon:hover {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 .footer-icon svg {
@@ -221,7 +221,7 @@ html.dark .footer-icon {
 }
 
 html.dark .footer-icon:hover {
-  color: #ff6b35 !important;
+  color: #ff9500 !important;
 }
 
 
