@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TBC on TBMC</title>
-    <link>http://localhost:62983/tbmc/</link>
+    <link>http://localhost:1313/tbmc/</link>
     <description>Recent content in TBC on TBMC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 07 Oct 2025 18:51:06 +0400</lastBuildDate><atom:link href="http://localhost:62983/tbmc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Oct 2025 18:51:06 +0400</lastBuildDate><atom:link href="http://localhost:1313/tbmc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Почему Биткоин?</title>
-      <link>http://localhost:62983/tbmc/posts/first-lection/</link>
+      <link>http://localhost:1313/tbmc/posts/first-lection/</link>
       <pubDate>Tue, 07 Oct 2025 18:51:06 +0400</pubDate>
       
-      <guid>http://localhost:62983/tbmc/posts/first-lection/</guid>
+      <guid>http://localhost:1313/tbmc/posts/first-lection/</guid>
       
       <description>&lt;h4 id=&#34;первая-лекция-tbilisi-bitcoin-club&#34;&gt;Первая лекция Tbilisi Bitcoin Club&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Многие слышали о &lt;strong&gt;Биткоине&lt;/strong&gt;, но не каждый до конца осознаёт его предназначение. Это инструмент обогащения? Финансовая пирамида? Ответ доллару? Устаревшая криптовалюта?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;На &lt;strong&gt;первой лекции&lt;/strong&gt;, организованной &lt;strong&gt;Tbilisi Bitcoin Club&lt;/strong&gt;, мы поговорим о том, какую проблему решает Биткоин, почему современные деньги сломаны и почему &amp;ldquo;крипта&amp;rdquo; в широком смысле этого слова не решает насущных проблем. Поговорим о том,&lt;/p&gt;
+&lt;p&gt;На &lt;strong&gt;первой лекции&lt;/strong&gt;, организованной &lt;strong&gt;Tbilisi Bitcoin Club&lt;/strong&gt;, мы поговорим о том, какую проблему решает Биткоин, почему современные деньги сломаны и почему &amp;ldquo;крипта&amp;rdquo; в широком смысле не решает насущных проблем. Поговорим о том,&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Как мы пришли к современным &amp;ldquo;деньгам&amp;rdquo;?&lt;/li&gt;
 &lt;li&gt;Почему деньги сломаны?&lt;/li&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Всё о Биткоине</title>
-      <link>http://localhost:62983/tbmc/pages/bitcoin/</link>
+      <link>http://localhost:1313/tbmc/pages/bitcoin/</link>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62983/tbmc/pages/bitcoin/</guid>
+      <guid>http://localhost:1313/tbmc/pages/bitcoin/</guid>
       
       <description>&lt;h2 id=&#34;что-такое-биткоин&#34;&gt;Что такое Биткоин&lt;/h2&gt;
 &lt;p&gt;Биткоин – невероятно комплексный феномен, и осветить все его составляющие на организованных нами лекциях и митапах невозможно. Хотите узнать больше о Биткоине? Обратите внимание на следующие ресурсы:&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Поддержать</title>
-      <link>http://localhost:62983/tbmc/pages/support/</link>
+      <link>http://localhost:1313/tbmc/pages/support/</link>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62983/tbmc/pages/support/</guid>
+      <guid>http://localhost:1313/tbmc/pages/support/</guid>
       
       <description>&lt;p&gt;&lt;strong&gt;Tbilisi ₿itcoin Club&lt;/strong&gt; – это некоммерческая инициатива, направленная на развитие биткоин-сообщества в Тбилиси.&lt;/p&gt;
 &lt;h3 id=&#34;как-вы-можете-помочь&#34;&gt;Как вы можете помочь&lt;/h3&gt;
@@ -83,37 +83,37 @@
     
     <item>
       <title>О проекте</title>
-      <link>http://localhost:62983/tbmc/pages/about/</link>
+      <link>http://localhost:1313/tbmc/pages/about/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62983/tbmc/pages/about/</guid>
+      <guid>http://localhost:1313/tbmc/pages/about/</guid>
       
       <description>&lt;p&gt;Цель проекта &lt;strong&gt;T₿C&lt;/strong&gt; – развить биткоин-сообщество в Тбилиси.&lt;/p&gt;
 &lt;p&gt;Проект является некоммерческой инициативой биткоинеров, проживающих в столице Грузии.&lt;/p&gt;
 &lt;p&gt;В планах проведение образовательных лекций, воркшопов, дискуссий, коллаборации с близкими по духу сообществами и бизнесами.&lt;/p&gt;
-&lt;p&gt;О предстоящих мероприятиях можно узнать в нашем &lt;a href=&#34;http://localhost:62983/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; или подписавшись на &lt;a href=&#34;http://localhost:62983/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленту.&lt;/p&gt;
+&lt;p&gt;О предстоящих мероприятиях можно узнать в нашем &lt;a href=&#34;http://localhost:1313/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; или подписавшись на &lt;a href=&#34;http://localhost:1313/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленту.&lt;/p&gt;
 &lt;p&gt;Приходите на встречи, будем обмениваться опытом.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;навигация&#34;&gt;Навигация&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Ознакомиться с предстоящими мероприятиями можно &lt;strong&gt;&lt;a href=&#34;http://localhost:62983/tbmc/posts/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Подписаться на RSS-рассылку можно &lt;strong&gt;&lt;a href=&#34;http://localhost:62983/tbmc/index.xml&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Поддержать Tbilisi Bitcoin Club можно &lt;strong&gt;&lt;a href=&#34;http://localhost:62983/tbmc/pages/support/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Ссылки на ресурсы, посвящённые Биткоину, можно найти &lt;strong&gt;&lt;a href=&#34;http://localhost:62983/tbmc/pages/bitcoin/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Ознакомиться с предстоящими мероприятиями можно &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/tbmc/posts/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Подписаться на RSS-рассылку можно &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/tbmc/index.xml&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Поддержать Tbilisi Bitcoin Club можно &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/tbmc/pages/support/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Ссылки на ресурсы, посвящённые Биткоину, можно найти &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/tbmc/pages/bitcoin/&#34;&gt;здесь&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;</description>
       
     </item>
     
     <item>
       <title>Привет, мир</title>
-      <link>http://localhost:62983/tbmc/posts/hello/</link>
+      <link>http://localhost:1313/tbmc/posts/hello/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62983/tbmc/posts/hello/</guid>
+      <guid>http://localhost:1313/tbmc/posts/hello/</guid>
       
       <description>&lt;p&gt;Всем привет. Это первый пост проекта Tbilisi Bitcoin Club (T₿C)&lt;/p&gt;
 &lt;p&gt;С сегодняшнего дня мы будем публиковать анонсы, новости и отчёты в этом блоге.&lt;/p&gt;
-&lt;p&gt;Есть вопросы или предложения? Приходите на наши лекции или митапы, мы открыты к общению. Анонсы предстоящих событий будут публиковаться в нашем &lt;a href=&#34;http://localhost:62983/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; и &lt;a href=&#34;http://localhost:62983/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленте.&lt;/p&gt;</description>
+&lt;p&gt;Есть вопросы или предложения? Приходите на наши лекции или митапы, мы открыты к общению. Анонсы предстоящих событий будут публиковаться в нашем &lt;a href=&#34;http://localhost:1313/tbmc/posts/&#34;&gt;блоге&lt;/a&gt; и &lt;a href=&#34;http://localhost:1313/tbmc/index.xml&#34;&gt;RSS&lt;/a&gt;-ленте.&lt;/p&gt;</description>
       
     </item>
     

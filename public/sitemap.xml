@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:62983/tbmc/</loc>
+    <loc>http://localhost:1313/tbmc/</loc>
     <lastmod>2025-10-07T18:51:06+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:62983/tbmc/posts/</loc>
+    <loc>http://localhost:1313/tbmc/posts/</loc>
     <lastmod>2025-10-07T18:51:06+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:62983/tbmc/posts/first-lection/</loc>
+    <loc>http://localhost:1313/tbmc/posts/first-lection/</loc>
     <lastmod>2025-10-07T18:51:06+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:62983/tbmc/pages/</loc>
+    <loc>http://localhost:1313/tbmc/pages/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:62983/tbmc/pages/bitcoin/</loc>
+    <loc>http://localhost:1313/tbmc/pages/bitcoin/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:62983/tbmc/pages/support/</loc>
+    <loc>http://localhost:1313/tbmc/pages/support/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:62983/tbmc/pages/about/</loc>
+    <loc>http://localhost:1313/tbmc/pages/about/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:62983/tbmc/posts/hello/</loc>
+    <loc>http://localhost:1313/tbmc/posts/hello/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:62983/tbmc/categories/</loc>
+    <loc>http://localhost:1313/tbmc/categories/</loc>
   </url><url>
-    <loc>http://localhost:62983/tbmc/tags/</loc>
+    <loc>http://localhost:1313/tbmc/tags/</loc>
   </url>
 </urlset>
