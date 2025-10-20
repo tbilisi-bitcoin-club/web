@@ -6,7 +6,19 @@
     <description>Recent content in Все посты on TBMC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 07 Oct 2025 18:51:06 +0400</lastBuildDate><atom:link href="http://localhost:1313/tbmc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 18:51:06 +0400</lastBuildDate><atom:link href="http://localhost:1313/tbmc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почему Биткоин? Материалы</title>
+      <link>http://localhost:1313/tbmc/posts/l1-materials/</link>
+      <pubDate>Sun, 19 Oct 2025 18:51:06 +0400</pubDate>
+      
+      <guid>http://localhost:1313/tbmc/posts/l1-materials/</guid>
+      
+      <description>&lt;p&gt;Видеозапись первой лекция, организованной Tbilisi Bitcoin Club, теперь  есть в открытом доступе. Слайды, использованные в лекции, можно найти ниже на этой странице.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/tbmc/images/posts/l1-slides/why-bitcoin.001.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Почему Биткоин?</title>
       <link>http://localhost:1313/tbmc/posts/first-lection/</link>
