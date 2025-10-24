@@ -29,6 +29,8 @@
     <loc>http://localhost:1313/tbmc/posts/hello/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tbmc/pages/chat-rules/</loc>
+  </url><url>
     <loc>http://localhost:1313/tbmc/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tbmc/tags/</loc>
