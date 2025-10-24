@@ -2,6 +2,7 @@
 /public/
 /resources/_gen/
 /hugo_build.lock
+/.hugo_build.lock
 
 # Cache files
 .DS_Store
