@@ -1,0 +1,17 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/hugo_build.lock
+
+# Cache files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.swp
+*~.nib
+
+# Hugo binary
+/hugo.exe
+/hugo.linux
+/hugo.darwin

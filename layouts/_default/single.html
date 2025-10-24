@@ -3,7 +3,7 @@
   <header class="header">
     {{ if .Params.cover }}
       <div class="post-cover">
-        <img src="{{ .Params.cover | relURL }}" alt="{{ .Title }}" class="cover-image">
+        <img src="{{ .Params.cover }}" alt="{{ .Title }}" class="cover-image">
       </div>
     {{ end }}
     <h1 class="header-title">{{ .Title }}</h1>
@@ -18,11 +18,11 @@
       </div>
     {{ end }}
   </header>
-  
+
   <article class="post-content">
     {{ .Content }}
   </article>
-  
+
   {{ if .PrevInSection }}
     <div class="post-nav">
       <div class="post-nav-item">
@@ -33,7 +33,7 @@
       </div>
     </div>
   {{ end }}
-  
+
   {{ if .NextInSection }}
     <div class="post-nav">
       <div class="post-nav-item">
