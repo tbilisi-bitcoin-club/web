@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('/tbmc/fonts/AnonymousPro-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Override theme font with AnonymousPro */
+body,
+html body,
+body * {
+  font-family: 'AnonymousPro', monospace !important;
+}
+
+/* Specific overrides for common elements */
+h1, h2, h3, h4, h5, h6,
+p, div, span, a, li, ul, ol,
+.navbar, .menu, .wrapper, .author,
+.post-item, .footer, .page-content {
+  font-family: 'AnonymousPro', monospace !important;
+}
