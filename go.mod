@@ -1,4 +1,4 @@
-module github.com/bitcoin21ideas/tbmc
+module github.com/tbilisi-bitcoin-club/web
 
 go 1.22.1
 

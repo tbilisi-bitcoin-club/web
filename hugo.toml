@@ -1,5 +1,5 @@
-baseURL = 'https://bitcoin21ideas.github.io/tbmc/'
-title = 'TBMC'
+baseURL = 'https://tbilisi-bitcoin-club.github.io/web/'
+title = 'Tbilisi Bitcoin Club'
 languageCode = 'ru-ru'
 defaultContentLanguage = 'ru-ru'
 defaultContentLanguageInSubdir = false
